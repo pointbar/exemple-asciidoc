@@ -1,3 +1,6 @@
+:icons: font
+
+---
 Paragraphes :
 
 Les gens qui dirigent le mouvement aujourd'hui — enfin, je ne devrais pas dire diriger...
