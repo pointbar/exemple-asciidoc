@@ -32,8 +32,9 @@ Quelques coups de *pédales* plus loin, je me trouvai au pied de l'antirade. Je 
 ---
 List 
 
-* Edgar Allen Poe
-* Sheri S. Tepper
+.Favorite Authors
+* Antonin Artaud
+* Alain Damasio
 * Bill Bryson
 
 1. markdown
