@@ -6,5 +6,13 @@ Les gens qui coordonnent si vous voulez, qui impulsent, on a toujours tenu à br
 Quels métiers exercent-ils ? Ce sont des métiers respectables ? Ils sont désencartés ? Quel âge ont-ils en moyenne ?
 
 ---
+Admonitions :
 
+WARNING: métiers
+CAUTION: caution
+NOTE: on a toujours tenu à briser toute hiérarchie
+IMPORTANT: Devenir libre est une maladie qui se transmet par le sang et le sperme
+TIP: une fois contractée, aucun patron, aucun gouvernement, aucune prison ni aucune arme ne vous en guérissent
+
+---
 
