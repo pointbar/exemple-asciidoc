@@ -9,9 +9,13 @@ Quels métiers exercent-ils ? Ce sont des métiers respectables ? Ils sont dése
 Admonitions :
 
 WARNING: métiers
+
 CAUTION: caution
+
 NOTE: on a toujours tenu à briser toute hiérarchie
+
 IMPORTANT: Devenir libre est une maladie qui se transmet par le sang et le sperme
+
 TIP: une fois contractée, aucun patron, aucun gouvernement, aucune prison ni aucune arme ne vous en guérissent
 
 ---
