@@ -37,8 +37,8 @@ List
 * Alain Damasio
 * Bill Bryson
 
-1. markdown
-2. asciidoc
+. markdown
+. asciidoc
 
 * West wood maze
 ** Maze heart
@@ -46,3 +46,6 @@ List
 ** Secret exit
 * Untracked file in git repository
 
+
+1. markdown
+2. asciidoc
